@@ -1,0 +1,1 @@
+Power BI is a tool from Microsoft that helps you see and understand your data better. It lets you create charts, graphs, and reports that make it easy to understand what's happening in your business or project.
